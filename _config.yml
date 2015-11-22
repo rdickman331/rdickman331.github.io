@@ -1,3 +1,9 @@
+---
+Name: KU Acts of Kindness
+Date.: 2015
+---
+
+
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -7,15 +13,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            KU Acts of Kindness
+tagline:          'A Digital Humanities Project'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Rebecca Dickman, Melissa Gilstrap, and Sarah Polo'
+  url:            https://twitter.com/KUKindness
 
 paginate:         5
 
