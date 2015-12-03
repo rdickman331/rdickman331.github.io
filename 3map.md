@@ -7,3 +7,4 @@ title: Sample Maps
 [See the active map on CartoDB](http://bit.ly/1kOZOCJ)
 
 ![An act of kindness!](Map3.jpg)
+![Another act of kindness](Map7.jpg)
