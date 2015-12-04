@@ -18,9 +18,9 @@ Acts of kindness are regularly observed on KU’s campus and recorded by the pro
 ##For More Information
 Those wishing to know more about KU Acts of Kindness are welcome to contact the project members (below) and are encouraged to follow @KUKindness on Twitter.
 
-Sarah Polo- sarahpolo@ku.edu
+Sarah Polo- <sarahpolo@ku.edu>
 
-Melissa Gilstrap- m524g306@ku.edu
+Melissa Gilstrap- <m524g306@ku.edu>
 
-Rebecca Dickman- rebeccad@ku.edu
+Rebecca Dickman- <rebeccad@ku.edu>
 
