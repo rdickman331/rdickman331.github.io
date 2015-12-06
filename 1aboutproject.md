@@ -16,11 +16,4 @@ As its purpose may suggest, the audiences for KU Acts of Kindness are varied. On
 Acts of kindness are regularly observed on KU’s campus and recorded by the project members. However, we encourage submissions of kind acts by anyone who experiences or observes them at the university. Students, faculty, staff, and visitors are encouraged to follow KU Acts of Kindness on Twitter @KUKindness) and tweet their observances to the @KUKindness Twitter feed.
 
 ##For More Information
-Those wishing to know more about KU Acts of Kindness are welcome to contact the project members (below) and are encouraged to follow @KUKindness on Twitter.
-
-Sarah Polo- <sarahpolo@ku.edu>
-
-Melissa Gilstrap- <m524g306@ku.edu>
-
-Rebecca Dickman- <rebeccad@ku.edu>
-
+Those wishing to know more about KU Acts of Kindness are welcome to contact the project members (<KUActsofKindness@gmail.com>) and are encouraged to follow @KUKindness on Twitter.
