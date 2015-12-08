@@ -16,7 +16,7 @@ The KU Acts of Kindness project doesn't just embrace "observer co-dependent and 
 ###The Importance of Affective Mapping for Our Humanistic Inquiry
 In that same article, Drucker proposes a hypothetical situation: 
 
->"Three people are waiting for a bus, how long does it take? One is late for work and anxious, one is in desperate need of a  >bathroom, and the other does not want to go to the afterschool program. How can the variations in perception be expressed?"
+>"Three people are waiting for a bus, how long does it take? One is late for work and anxious, one is in desperate need of a  bathroom, and the other does not want to go to the afterschool program. How can the variations in perception be expressed?"
 
 In this particular case, the perception of time and space is altered by feelings of frustration and anxiety. Coincidentally, many of the acts of kindness we have recorded occurred while people were waiting for the bus. In the same way, then, these acts of kindness altered perceptions of space and time in more positive ways. For example, while working on this project, we began to see the bus stop as more than just a waiting space; instead, the bus stop became a wonderfully conducive place for "people watching," where we looked for people acting altruistically. While we acknowledge that our map is not as complex as some of the ones Drucker examines in her article, we would argue that this more simplistic map at least sparks new and increasingly positive conceptions of space.
 
