@@ -15,5 +15,3 @@ title: Sample Maps
 
 ###Acts of Kindness Over Time
 ![Kindness over time](MapOverTime.jpg)
-
-[See the acts of kindness move around campus over time](http://bit.ly/1OgKHZO)
