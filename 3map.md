@@ -4,7 +4,6 @@ title: Sample Maps
 ---
 
 [See the active map on CartoDB](http://bit.ly/1kOZOCJ)
-
 ![KU Acts of Kindness Map](KUActsOfKindnessMap.jpg)
 
 ###Example of an Act of Kindness
