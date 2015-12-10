@@ -14,3 +14,4 @@ title: Sample Maps
 ![Another act of kindness](Map7.jpg)
 
 ###Acts of Kindness Over Time
+![Kindness over time](MapOverTime.jpg)
