@@ -7,6 +7,6 @@ The KU Acts of Kindness Twitter page, @KUKindness, allows students, faculty, and
 
 [Visit the Twitter page here.](https://twitter.com/KUKindness)
 
-![KUKindness](TwitterImage.JPG)
+![KUKindness](https://github.com/rdickman331/rdickman331.github.io/blob/master/TwitterScreenshot.JPG)
 
 
